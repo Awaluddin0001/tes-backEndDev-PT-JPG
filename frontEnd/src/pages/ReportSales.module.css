@@ -1,0 +1,22 @@
+.titleReport {
+  font-size: 21rem;
+}
+.subtitleReport {
+  font-size: 16rem;
+}
+
+.inputRep {
+  font-size: 14rem;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 16rem;
+}
+
+.btnRep {
+  font-size: 14rem;
+}
+
+.errorText {
+  font-size: 14rem;
+  color: red;
+}

@@ -1,0 +1,35 @@
+.titleLogin {
+  font-size: 21rem;
+}
+
+.subtitleLogin {
+  font-size: 16rem;
+}
+
+.inputLogin {
+  font-size: 14rem;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 16rem;
+}
+
+.btnLogin {
+  font-size: 14rem;
+}
+
+.errorText {
+  font-size: 14rem;
+  color: red;
+}
+
+.regButton {
+  color: aquamarine;
+  font-size: 12rem;
+}
+
+@media (prefers-color-scheme: light) {
+  .regButton {
+    color: blue;
+    font-size: 12rem;
+  }
+}
